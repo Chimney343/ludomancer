@@ -1,0 +1,474 @@
+[
+  {
+    "owned": {
+      "appid": 101,
+      "name": "Action Hero",
+      "playtime_forever_minutes": 720,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 101,
+      "genres": ["Action"],
+      "categories": ["Single-player"],
+      "release_date": "2019-01-01",
+      "developers": ["Studio A"],
+      "publishers": ["Publisher A"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Action": 120,
+      "Shooter": 100,
+      "Fast-Paced": 80
+    }
+  },
+  {
+    "owned": {
+      "appid": 102,
+      "name": "Action Veteran",
+      "playtime_forever_minutes": 480,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 102,
+      "genres": ["Action"],
+      "categories": ["Multi-player"],
+      "release_date": "2018-03-12",
+      "developers": ["Studio B"],
+      "publishers": ["Publisher A"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Action": 90,
+      "Tactical": 70,
+      "Military": 50
+    }
+  },
+  {
+    "owned": {
+      "appid": 103,
+      "name": "RPG Legend",
+      "playtime_forever_minutes": 900,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 103,
+      "genres": ["RPG"],
+      "categories": ["Single-player"],
+      "release_date": "2017-10-10",
+      "developers": ["Studio C"],
+      "publishers": ["Publisher B"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "RPG": 150,
+      "Story Rich": 120,
+      "Open World": 90
+    }
+  },
+  {
+    "owned": {
+      "appid": 104,
+      "name": "Indie Darling",
+      "playtime_forever_minutes": 360,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 104,
+      "genres": ["Adventure"],
+      "categories": ["Single-player"],
+      "release_date": "2020-05-01",
+      "developers": ["Studio D"],
+      "publishers": ["Publisher C"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Narrative": 60,
+      "Exploration": 70,
+      "Puzzle": 40
+    }
+  },
+  {
+    "owned": {
+      "appid": 105,
+      "name": "Co-op Crafter",
+      "playtime_forever_minutes": 300,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 105,
+      "genres": ["Survival", "Sandbox"],
+      "categories": ["Co-op"],
+      "release_date": "2021-07-01",
+      "developers": ["Studio E"],
+      "publishers": ["Publisher C"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Crafting": 110,
+      "Co-op": 95,
+      "Survival": 100
+    }
+  },
+  {
+    "owned": {
+      "appid": 106,
+      "name": "Strategy Backlog One",
+      "playtime_forever_minutes": 30,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 106,
+      "genres": ["Strategy"],
+      "categories": ["Single-player"],
+      "release_date": "2016-02-20",
+      "developers": ["Studio F"],
+      "publishers": ["Publisher D"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Strategy": 100,
+      "Turn-Based": 90,
+      "Tactics": 80
+    }
+  },
+  {
+    "owned": {
+      "appid": 107,
+      "name": "Strategy Backlog Two",
+      "playtime_forever_minutes": 0,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 107,
+      "genres": ["Strategy"],
+      "categories": ["Single-player"],
+      "release_date": "2015-11-15",
+      "developers": ["Studio F"],
+      "publishers": ["Publisher D"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Grand Strategy": 70,
+      "Economy": 75,
+      "4X": 65
+    }
+  },
+  {
+    "owned": {
+      "appid": 108,
+      "name": "Action Backlog Match",
+      "playtime_forever_minutes": 60,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 108,
+      "genres": ["Action"],
+      "categories": ["Single-player"],
+      "release_date": "2022-03-03",
+      "developers": ["Studio G"],
+      "publishers": ["Publisher A"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Action": 130,
+      "Shooter": 95,
+      "Combat": 85
+    }
+  },
+  {
+    "owned": {
+      "appid": 109,
+      "name": "Action Backlog Mid",
+      "playtime_forever_minutes": 40,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 109,
+      "genres": ["Action"],
+      "categories": ["Single-player"],
+      "release_date": "2021-09-09",
+      "developers": ["Studio G"],
+      "publishers": ["Publisher A"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Action": 60,
+      "Adventure": 55,
+      "Platformer": 45
+    }
+  },
+  {
+    "owned": {
+      "appid": 110,
+      "name": "Action Backlog Weak",
+      "playtime_forever_minutes": 10,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 110,
+      "genres": ["Action"],
+      "categories": ["Single-player"],
+      "release_date": "2023-01-18",
+      "developers": ["Studio H"],
+      "publishers": ["Publisher E"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Farming": 80,
+      "Cozy": 90,
+      "Life Sim": 70
+    }
+  },
+  {
+    "owned": {
+      "appid": 111,
+      "name": "Racing Solo",
+      "playtime_forever_minutes": 20,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 111,
+      "genres": ["Racing"],
+      "categories": ["Single-player"],
+      "release_date": "2014-06-01",
+      "developers": ["Studio I"],
+      "publishers": ["Publisher F"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Racing": 120,
+      "Driving": 80,
+      "Simulation": 70
+    }
+  },
+  {
+    "owned": {
+      "appid": 112,
+      "name": "Puzzle No Tags",
+      "playtime_forever_minutes": 50,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 112,
+      "genres": ["Puzzle"],
+      "categories": ["Single-player"],
+      "release_date": "2022-08-08",
+      "developers": ["Studio J"],
+      "publishers": ["Publisher F"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {}
+  },
+  {
+    "owned": {
+      "appid": 113,
+      "name": "Puzzle Thinker",
+      "playtime_forever_minutes": 250,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 113,
+      "genres": ["Puzzle"],
+      "categories": ["Single-player"],
+      "release_date": "2018-12-12",
+      "developers": ["Studio J"],
+      "publishers": ["Publisher F"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Puzzle": 140,
+      "Logic": 130,
+      "Minimalist": 60
+    }
+  },
+  {
+    "owned": {
+      "appid": 114,
+      "name": "Horror Nights",
+      "playtime_forever_minutes": 0,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 114,
+      "genres": ["Horror"],
+      "categories": ["Single-player"],
+      "release_date": "2020-10-31",
+      "developers": ["Studio K"],
+      "publishers": ["Publisher G"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Horror": 160,
+      "Survival": 100,
+      "Atmospheric": 110
+    }
+  },
+  {
+    "owned": {
+      "appid": 115,
+      "name": "Horror Escape",
+      "playtime_forever_minutes": 20,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 115,
+      "genres": ["Horror"],
+      "categories": ["Single-player"],
+      "release_date": "2021-10-31",
+      "developers": ["Studio K"],
+      "publishers": ["Publisher G"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Horror": 130,
+      "Puzzle": 70,
+      "Escape": 75
+    }
+  },
+  {
+    "owned": {
+      "appid": 116,
+      "name": "Sports Star",
+      "playtime_forever_minutes": 600,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 116,
+      "genres": ["Sports"],
+      "categories": ["Multi-player"],
+      "release_date": "2019-08-20",
+      "developers": ["Studio L"],
+      "publishers": ["Publisher H"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Sports": 180,
+      "Competitive": 170,
+      "Online": 150
+    }
+  },
+  {
+    "owned": {
+      "appid": 117,
+      "name": "Sports Backlog",
+      "playtime_forever_minutes": 100,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 117,
+      "genres": ["Sports"],
+      "categories": ["Single-player"],
+      "release_date": "2024-02-01",
+      "developers": ["Studio L"],
+      "publishers": ["Publisher H"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Sports": 120,
+      "Management": 90,
+      "Career": 80
+    }
+  },
+  {
+    "owned": {
+      "appid": 118,
+      "name": "Visual Novel Chill",
+      "playtime_forever_minutes": 0,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 118,
+      "genres": ["Visual Novel"],
+      "categories": ["Single-player"],
+      "release_date": "2023-03-14",
+      "developers": ["Studio M"],
+      "publishers": ["Publisher I"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Story Rich": 100,
+      "Choices Matter": 80,
+      "Relaxing": 75
+    }
+  },
+  {
+    "owned": {
+      "appid": 119,
+      "name": "Sandbox Builder",
+      "playtime_forever_minutes": 200,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 119,
+      "genres": ["Sandbox"],
+      "categories": ["Single-player"],
+      "release_date": "2017-06-06",
+      "developers": ["Studio E"],
+      "publishers": ["Publisher C"],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {
+      "Building": 140,
+      "Crafting": 130,
+      "Sandbox": 120
+    }
+  },
+  {
+    "owned": {
+      "appid": 120,
+      "name": "Zero Signal Prototype",
+      "playtime_forever_minutes": 10,
+      "playtime_2weeks_minutes": 0,
+      "icon_url": null
+    },
+    "metadata": {
+      "appid": 120,
+      "genres": [],
+      "categories": [],
+      "release_date": null,
+      "developers": [],
+      "publishers": [],
+      "header_image_url": null,
+      "fetched_at": "2026-01-01T00:00:00+00:00"
+    },
+    "tags": {}
+  }
+]
