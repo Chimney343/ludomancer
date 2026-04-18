@@ -1,0 +1,11 @@
+{
+  "appid": 10,
+  "name": "Counter-Strike",
+  "tags": {
+    "Action": "100",
+    "FPS": 88,
+    " Co-op ": "12",
+    "Broken": "not-a-number",
+    "": 5
+  }
+}
