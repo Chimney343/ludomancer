@@ -1,0 +1,34 @@
+{
+  "10": {
+    "success": true,
+    "data": {
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "2",
+          "description": "Classic"
+        }
+      ],
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "1 Nov, 2000"
+      },
+      "developers": [
+        "Valve"
+      ],
+      "publishers": [
+        "Valve"
+      ],
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/10/header.jpg"
+    }
+  }
+}

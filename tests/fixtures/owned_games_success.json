@@ -1,0 +1,21 @@
+{
+  "response": {
+    "game_count": 2,
+    "games": [
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "playtime_forever": 120,
+        "playtime_2weeks": 25,
+        "img_icon_url": "6b0312cda02f5f777efa34e8c7a6f9e1c263f0d0"
+      },
+      {
+        "appid": 20,
+        "name": "Team Fortress Classic",
+        "playtime_forever": 0,
+        "playtime_2weeks": 0,
+        "img_icon_url": ""
+      }
+    ]
+  }
+}

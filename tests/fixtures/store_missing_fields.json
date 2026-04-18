@@ -1,0 +1,13 @@
+{
+  "20": {
+    "success": true,
+    "data": {
+      "categories": [
+        {
+          "id": 1,
+          "description": "Multi-player"
+        }
+      ]
+    }
+  }
+}
