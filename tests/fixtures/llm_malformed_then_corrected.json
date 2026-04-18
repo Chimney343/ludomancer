@@ -1,0 +1,4 @@
+{
+  "malformed": "```json\n{\"recommendations\":[{\"genre\":\"Action\",\"pick_name\":\"Invalid Candidate\",\"reasoning\":\"This is not in the candidate list.\"}]}\n```",
+  "corrected": "{\"recommendations\":[{\"genre\":\"Action\",\"pick_name\":\"Action Backlog Match\",\"reasoning\":\"It best matches your action-heavy signal games through shared shooter and combat tags.\"}]}"
+}
