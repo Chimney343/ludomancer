@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "skills": {
+    "SQLite Database Expert": {
+      "source": "martinholovsky/claude-skills-generator",
+      "sourceType": "github",
+      "computedHash": "515e1971f145631025485c6dbf83c62bb7ee0fabc805d0e2bd07ac2aac7f24d8"
+    },
+    "ai-prompt-engineering": {
+      "source": "vasilyu1983/ai-agents-public",
+      "sourceType": "github",
+      "computedHash": "ce3c15e622a8da6cd7dc3b9b1f9c648767226dad676edf97d4c21a38055a34e6"
+    },
+    "api-integration": {
+      "source": "hack23/cia",
+      "sourceType": "github",
+      "computedHash": "a2fbed6fa7ac5c7944023574b2b3391b37deab225939fa218ad93291be9b1179"
+    },
+    "c4-architecture": {
+      "source": "softaworks/agent-toolkit",
+      "sourceType": "github",
+      "computedHash": "9192b5d6be529478a70d1a73f3d4ce83db12c2052c4e6df4accd445f21e906d4"
+    },
+    "grug-brain-development": {
+      "source": "supersterling/grug-brain-dev",
+      "sourceType": "github",
+      "computedHash": "1e677d16befaa0ad9f6b67d03ee8393b5f9016b728c10f4d1393f9fbf366be4d"
+    },
+    "pydantic": {
+      "source": "bobmatnyc/claude-mpm-skills",
+      "sourceType": "github",
+      "computedHash": "e82a738f3ef5099e9436a1637b630f3a1f4d3bd99cdf2652fc1440c0b8eb1836"
+    },
+    "pyqt6-ui-development-rules": {
+      "source": "oimiragieo/agent-studio",
+      "sourceType": "github",
+      "computedHash": "fe96e7f7ec47008ea18e2fadc35302a8b1e2ee8e62801d8408352205874d0fee"
+    },
+    "python-code-style": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "c375dffa8d94962e10193079af1527b149f43b68d60043830d89cbce1228cec7"
+    },
+    "python-design-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "8646a52fb34f1b88954aa84c86d5de04fbda1f415e509045c7f3ffff5886ded4"
+    },
+    "python-packaging": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "ff3e59808ce3fdf85a4ce0538f69f94a92d5d2863343bf26997509ec1e1ee014"
+    },
+    "python-testing-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "a16a6d7d7e0a5154a5058fd9aacf8e675368b2a4a0dc5edf0fee775169c6abe0"
+    },
+    "scikit-learn": {
+      "source": "eyadsibai/ltk",
+      "sourceType": "github",
+      "computedHash": "a03e5536fb2fec5458370600b29c227c46fea494da3c259ce7ec7a893edc3959"
+    }
+  }
+}
